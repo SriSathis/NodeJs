@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/SriSathis/node-hello#readme",
   "dependencies": {
-    "express": "^*"
+    "express": "*"
   }
 }
